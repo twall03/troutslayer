@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(3, 24, 81);
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+}
+
+a {
+    color: brown;
+}
+
+a:visited {
+    color: bisque;
+}
+
+
+
+.imgcenter {
+    display: block;
+    margin: auto;
+}
+
+.rizz {
+
+    font-family: 'Courier New', Courier, monospace;
+    color: antiquewhite;
+    font-size: larger;
+    font-style: unset;
+    font-weight: bolder;
+
+}
+
+li{
+    text-decoration: overline;
+}
+li:hover{
+    text-decoration: underline;
+}
+
+.rizz2{
+    text-align: center;
+}
